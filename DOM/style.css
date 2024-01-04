@@ -27,7 +27,7 @@ div{
   margin-right: auto;
   margin-top:20px;
 } */
-.myClass{
+/* .myClass{
     color:rgb(76, 76, 214);
     background-color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -35,7 +35,16 @@ div{
 }
 .myClass2{
     /* color:rgb(226, 95, 116); */
-    background-color: rgb(172, 96, 243);
+    /* background-color: rgb(172, 96, 243); */
     /* font-family: 'Times New Roman', Times, serif; */
-    /* font-size: large; */
+    /* font-size: large; 
+} */
+
+div{
+    background-color: dodgerblue;
+    color:white;
+    border: 1px solid black;
+    margin :10px 10px 10px 10px;
+    height: 300px;
+    width: 200px;
 }
